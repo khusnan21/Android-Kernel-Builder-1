@@ -1,8 +1,8 @@
 [
   {
     "kernelSource": {
-      "name": "android_kernel_samsung_exynos990/tree/main",
-      "repo": "https://github.com/ExtremeXT/android_kernel_samsung_exynos990/tree/main",
+      "name": "android_kernel_samsung_exynos990",
+      "repo": "https://github.com/ExtremeXT/android_kernel_samsung_exynos990",
       "branch": "main",
       "device": "r8s",
       "defconfig": "extreme_r8s_defconfig"
